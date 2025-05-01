@@ -1,0 +1,549 @@
+Index,DrugBank ID,Drug Name,Side Effects,Target Sites
+2244,DB00945,Acetylsalicylic acid,Nausea,Cyclooxygenase (COX-1 and COX-2)
+4609,DB00526,Oxaliplatin,Nerve damage,Myelosuppression
+3696,DB00458,Imipramine,Drowsiness,Serotonin and norepinephrine reuptake inhibition
+3446,DB00996,Gabapentin,Dizziness,Voltage-gated calcium channels
+4058,DB00454,Meperidine,Nausea,Opioid receptors (mu)
+4440,DB00952,Naratriptan,Nausea,Serotonin 5-HT1B/1D receptors
+4679,DB00213,Pantoprazole,Headache,Proton pump (H+/K+ ATPase)
+3419,DB00492,Fosinopril,Dizziness,Angiotensin-converting enzyme (ACE)
+2656,DB01212,Ceftriaxone,Fever,Bacterial cell wall
+216239,DB00398,Sorafenib,Diarrhea,VEGFR
+3877,DB00709,Lamivudine,Nausea,Reverse transcriptase
+60871,DB00718,Adefovir dipivoxil,Weakness,Reverse transcriptase
+5486,DB00775,Tirofiban,Bleeding,Glycoprotein IIb/IIIa receptor
+5487,DB00697,Tizanidine,Drowsiness,Alpha-2 adrenergic receptor
+5394,DB00853,Temozolomide,Nausea,DNA methylation
+2622,DB01413,Cefepime,Rash,Bacterial cell wall
+5578,DB00440,Trimethoprim,Nausea,Dihydrofolate reductase
+2284,DB00181,Baclofen,Drowsiness,GABA-B receptor
+5525,DB00519,Trandolapril,Dizziness,Angiotensin-converting enzyme (ACE)
+3355,DB01195,Flecainide,Dizziness,Voltage-gated sodium channels
+2955,DB00250,Dapsone,Nausea,Dihydrofolate reductase
+3454,DB01004,Ganciclovir,Nausea,Viral DNA polymerase
+667490,DB01033,Mercaptopurine,Nausea,HGPRT enzyme (Purine synthesis)
+71616,DB00582,Voriconazole,Visual disturbances,Ergosterol biosynthesis
+5297,DB01082,Streptomycin,Hearing loss,Bacterial ribosome (30S subunit)
+5095,DB00268,Ropinirole,Nausea,Dopamine D2 and D3 receptors
+1978,DB01193,Acebutolol,Dizziness,Beta-1 adrenergic receptor
+4212,DB01204,Mitoxantrone,Nausea,Topoisomerase II
+3143,DB01248,Docetaxel,Nausea,Microtubules
+3878,DB00555,Lamotrigine,Dizziness,Voltage-gated sodium channels
+110634,DB00862,Vardenafil,Headache,Phosphodiesterase type 5 (PDE5)
+60198,DB00990,Exemestane,Hot flashes,Aromatase enzyme
+5206,DB01236,Sevoflurane,Nausea,Respiratory and central nervous system depression
+6435110,DB00602,Ivermectin,Itching,Parasitic chloride ion channels
+60612,DB00633,Dexmedetomidine,Bradycardia,Alpha-2 adrenergic receptor
+2369,DB00195,Betaxolol,Dizziness,Beta-1 adrenergic receptor
+71329,DB00204,Dofetilide,Dizziness,Voltage-gated potassium channels
+2311,DB00542,Benazepril,Dizziness,Angiotensin-converting enzyme (ACE)
+2550,DB01197,Captopril,Dizziness,Angiotensin-converting enzyme (ACE)
+5078,DB00953,Rizatriptan,Nausea,Serotonin 5-HT1B/1D receptors
+4485,DB01115,Nifedipine,Flushing,Calcium channels (L-type)
+60164,DB00210,Adapalene,Skin irritation,Retinoic acid receptors (RAR)
+2678,DB00341,Cetirizine,Drowsiness,Histamine H1 receptor
+3827,DB00920,Ketotifen,Drowsiness,Histamine H1 receptor
+2308,DB00394,Beclomethasone dipropionate,Throat irritation,Glucocorticoid receptor
+56959,DB00243,Ranolazine,Dizziness,Sodium channels (late phase)
+2522,DB02300,Calcipotriol,Skin irritation,Vitamin D receptor
+4946,DB00571,Propranolol,Dizziness,Beta-adrenergic receptors (Beta-1 and Beta-2)
+176870,DB00530,Erlotinib,Rash,Epidermal growth factor receptor (EGFR)
+4900,DB00635,Prednisone,Weight gain,Glucocorticoid receptor
+3461,DB00441,Gemcitabine,Nausea,DNA synthesis inhibition
+3823,DB01026,Ketoconazole,Nausea,Ergosterol biosynthesis
+5515,DB01030,Topotecan,Nausea,Topoisomerase I
+130881,DB00275,Olmesartan,Dizziness,Angiotensin II receptor
+71158,DB00659,Acamprosate,Diarrhea,Glutamate NMDA receptor
+1972,DB00681,Amphotericin B,Fever,Ergosterol binding
+4138,DB00968,Methyldopa,Dizziness,Dopamine decarboxylase
+3661,DB00424,Hyoscyamine,Dry mouth,Muscarinic acetylcholine receptors
+3957,DB00455,Loratadine,Drowsiness,Histamine H1 receptor
+3825,DB01009,Ketoprofen,Nausea,Cyclooxygenase (COX-1 and COX-2)
+4053,DB01042,Melphalan,Nausea,DNA alkylation
+5584,DB00726,Trimipramine,Drowsiness,Serotonin and norepinephrine reuptake inhibition
+60852,DB00710,Ibandronate,Nausea,Hydroxyapatite binding in bone
+5002,DB01224,Quetiapine,Drowsiness,Dopamine D2 and serotonin 5-HT2A receptors
+2092,DB00346,Alfuzosin,Dizziness,Alpha-1 adrenergic receptor
+3929,DB00601,Linezolid,Diarrhea,Bacterial ribosome (50S subunit)
+2895,DB00924,Cyclobenzaprine,Drowsiness,Central nervous system depression
+2370,DB01019,Bethanechol,Nausea,Muscarinic acetylcholine receptors
+4543,DB00540,Nortriptyline,Dry mouth,Serotonin and norepinephrine reuptake inhibition
+4739,DB00552,Pentostatin,Nausea,Adenosine deaminase inhibition
+4259,DB00218,Moxifloxacin,Nausea,DNA gyrase and topoisomerase IV
+104865,DB00559,Bosentan,Headache,Endothelin receptor
+3637,DB01275,Hydralazine,Dizziness,Vascular smooth muscle
+3108,DB00975,Dipyridamole,Nausea,Phosphodiesterase inhibition
+2512,DB00248,Cabergoline,Nausea,Dopamine D2 receptor
+3386,DB00472,Fluoxetine,Nausea,Serotonin reuptake inhibition
+2160,DB00321,Amitriptyline,Drowsiness,Serotonin and norepinephrine reuptake inhibition
+4885,DB00413,Pramipexole,Nausea,Dopamine D2 and D3 receptors
+4264,DB00410,Mupirocin,Skin irritation,Bacterial isoleucyl tRNA synthetase
+4075,DB00244,Mesalazine,Diarrhea,Cyclooxygenase inhibition
+4168,DB01233,Metoclopramide,Nausea,Dopamine D2 receptor
+4253,DB00295,Morphine,Drowsiness,Opioid receptors (mu)
+4046,DB00358,Mefloquine,Nausea,Parasite mitochondrial function
+9433,DB01223,Aminophylline,Nausea,Phosphodiesterase inhibition
+82146,DB00307,Bexarotene,Rash,Retinoid X receptors
+4583,DB01137,Levofloxacin,Nausea,DNA gyrase and topoisomerase IV
+3007,DB00182,Amphetamine,Insomnia,Dopamine and norepinephrine release
+60843,DB00642,Pemetrexed,Nausea,Dihydrofolate reductase inhibition
+3639,DB00999,Hydrochlorothiazide,Dizziness,Na+/Cl− cotransporter inhibition
+2676,DB00439,Cerivastatin,Muscle pain,HMG-CoA reductase inhibition
+3414,DB00529,Foscarnet,Kidney toxicity,Viral DNA polymerase inhibition
+5647,DB00577,Valaciclovir,Nausea,Viral DNA polymerase inhibition
+2173,DB00415,Ampicillin,Diarrhea,Bacterial cell wall synthesis inhibition
+453,DB00742,Mannitol,Increased urination,Renal tubule
+2266,DB00548,Azelaic acid,Skin irritation,Tyrosinase inhibition
+3032,DB00586,Diclofenac,Nausea,Cyclooxygenase (COX-1 and COX-2)
+2800,DB00882,Clomifene,Hot flashes,Estrogen receptor modulation
+119607,DB00580,Valdecoxib,Nausea,Cyclooxygenase-2 (COX-2) inhibition
+3706,DB00224,Indinavir,Nausea,HIV protease inhibition
+3467,DB00798,Gentamicin,Kidney toxicity,Bacterial ribosome (30S subunit)
+4675,DB01337,Pancuronium,Muscle weakness,Nicotinic acetylcholine receptor
+3324,DB00426,Famciclovir,Nausea,Viral DNA polymerase inhibition
+2019,DB00970,Dactinomycin,Nausea,DNA-dependent RNA polymerase inhibition
+5155,DB00649,Stavudine,Nausea,Reverse transcriptase inhibition
+60877,DB00879,Emtricitabine,Nausea,Reverse transcriptase inhibition
+2265,DB00993,Azathioprine,Nausea,Inosine monophosphate dehydrogenase inhibition
+2617,DB01327,Cefazolin,Diarrhea,Bacterial cell wall synthesis inhibition
+2249,DB00335,Atenolol,Dizziness,Beta-1 adrenergic receptor
+124087,DB00967,Desloratadine,Drowsiness,Histamine H1 receptor
+2818,DB00363,Clozapine,Drowsiness,Dopamine D2 and serotonin 5-HT2A receptors
+4211,DB00648,Mitotane,Nausea,Adrenal cortex destruction
+3008,DB00514,Dextromethorphan,Dizziness,NDMA receptor antagonism
+2907,DB00531,Cyclophosphamide,Nausea,DNA alkylation
+119182,DB00631,Clofarabine,Nausea,DNA polymerase inhibition
+4730,DB00417,Phenoxymethylpenicillin,Diarrhea,Bacterial cell wall synthesis inhibition
+2177,DB00701,Amprenavir,Nausea,HIV protease inhibition
+5372,DB00864,Tacrolimus,Kidney toxicity,Calcineurin inhibition
+3075,DB00343,Diltiazem,Dizziness,Calcium channels (L-type)
+3148,DB00757,Dolasetron,Nausea,Serotonin 5-HT3 receptor
+3381,DB00591,Fluocinolone acetonide,Skin irritation,Glucocorticoid receptor
+5401,DB01162,Terazosin,Dizziness,Alpha-1 adrenergic receptor
+3379,DB00180,Flunisolide,Sore throat,Glucocorticoid receptor
+4479097,DB00200,Hydroxocobalamin,Red urine,Cobalamin metabolism
+4201,DB00350,Minoxidil,Increased hair growth,Potassium channels
+2520,DB00661,Verapamil,Dizziness,Calcium channels (L-type)
+2088,DB00630,Alendronic acid,Nausea,Hydroxyapatite binding in bone
+5505,DB01124,Tolbutamide,Low blood sugar,ATP-sensitive potassium channels
+2142,DB00479,Amikacin,Kidney toxicity,Bacterial ribosome (30S subunit)
+1134,DB01265,Telbivudine,Nausea,Reverse transcriptase inhibition
+2022,DB00787,Acyclovir,Nausea,Viral DNA polymerase inhibition
+5651,DB00512,Vancomycin,Kidney toxicity,Bacterial cell wall synthesis inhibition
+4158,DB00422,Methylphenidate,Insomnia,Dopamine reuptake inhibition
+4140,DB00353,Methylergometrine,Nausea,Serotonin receptors
+2610,DB01140,Cefadroxil,Diarrhea,Bacterial cell wall synthesis inhibition
+3869,DB00598,Labetalol,Dizziness,Beta-adrenergic receptor
+151165,DB00673,Aprepitant,Nausea,Neurokinin-1 receptor
+3476,DB00222,Glimepiride,Low blood sugar,ATP-sensitive potassium channels
+125017,DB06700,Desvenlafaxine,Nausea,Serotonin and norepinephrine reuptake inhibition
+2405,DB00612,Bisoprolol,Dizziness,Beta-1 adrenergic receptor
+4911,DB01032,Probenecid,Nausea,Uric acid transport inhibition
+150310,DB00700,Eplerenone,Increased urination,Mineralocorticoid receptor
+815,DB01172,Kanamycin,Hearing loss,Bacterial ribosome (30S subunit)
+3954,DB00836,Loperamide,Constipation,Opioid receptors (mu)
+5408,DB00624,Testosterone,Acne,Androgen receptor
+2215,DB00714,Apomorphine,Nausea,Dopamine D2 receptor
+3249,DB00153,Ergocalciferol,Nausea,Vitamin D receptor
+2349,DB01053,Benzylpenicillin,Diarrhea,Bacterial cell wall synthesis inhibition
+5391,DB00231,Temazepam,Drowsiness,GABA-A receptor
+5478,DB00373,Timolol,Dizziness,Beta-adrenergic receptor
+4894,DB00860,Prednisolone,Increased appetite,Glucocorticoid receptor
+4428,DB00704,Naltrexone,Nausea,Opioid receptor antagonist
+4513,DB00585,Nizatidine,Headache,Histamine H2 receptor
+4112,DB00563,Methotrexate,Nausea,Dihydrofolate reductase inhibition
+5512,DB01036,Tolterodine,Dry mouth,Muscarinic acetylcholine receptor
+1971,DB01048,Abacavir,Nausea,Reverse transcriptase inhibition
+54547,DB01416,Cefpodoxime,Diarrhea,Bacterial cell wall synthesis inhibition
+4411,DB01203,Nadolol,Dizziness,Beta-1 adrenergic receptor
+4195,DB00211,Midodrine,Goosebumps,Alpha-1 adrenergic receptor
+4845,DB01291,Pirbuterol,Tremor,Beta-2 adrenergic receptor
+41317,DB00459,Acitretin,Dry skin,Retinoic acid receptors
+2250,DB01076,Atorvastatin,Muscle pain,HMG-CoA reductase
+5672,DB00361,Vinorelbine,Nausea,Microtubules
+191,DB00194,Vidarabine,Nausea,Viral DNA polymerase inhibition
+2162,DB00381,Amlodipine,Swelling,Calcium channels (L-type)
+3702,DB00808,Indapamide,Frequent urination,Thiazide-sensitive sodium-chloride symporter
+3157,DB00590,Doxazosin,Dizziness,Alpha-1 adrenergic receptor
+5721,DB00558,Zanamivir,Nasal irritation,Neuraminidase
+5212,DB00203,Sildenafil,Headache,Phosphodiesterase type 5 (PDE5)
+2578,DB00262,Carmustine,Nausea,Alkylating agent
+1775,DB00252,Phenytoin,Dizziness,Voltage-gated sodium channels
+4594,DB00338,Omeprazole,Headache,Proton pump (H+/K+ ATPase)
+3059,DB00861,Diflunisal,Nausea,Cyclooxygenase (COX-1 and COX-2)
+2476,DB00921,Buprenorphine,Nausea,Opioid receptors (mu)
+51263,DB00802,Alfentanil,Drowsiness,Opioid receptors (mu)
+937,DB00627,Niacin,Flushing,Nicotinic acid receptor
+2995,DB01151,Desipramine,Dry mouth,Serotonin and norepinephrine reuptake inhibition
+3168,DB00450,Droperidol,Drowsiness,Dopamine D2 receptor
+2099,DB00969,Alosetron,Constipation,Serotonin 5-HT3 receptor
+159,DB01240,Epoprostenol,Flushing,Prostacyclin receptor
+4607,DB00713,Oxacillin,Diarrhea,Bacterial cell wall synthesis inhibition
+3114,DB00280,Disopyramide,Dry mouth,Voltage-gated sodium channels
+115237,DB01267,Paliperidone,Drowsiness,Dopamine D2 receptor
+3325,DB00927,Famotidine,Headache,Histamine H2 receptor
+4539,DB01059,Norfloxacin,Nausea,Topoisomerase inhibition
+5719,DB00962,Zaleplon,Drowsiness,GABA-A receptor
+3784,DB00270,Isradipine,Dizziness,Calcium channels (L-type)
+4509,DB00698,Nitrofurantoin,Nausea,Bacterial ribosome inhibition
+5029,DB01129,Rabeprazole,Headache,Proton pump (H+/K+ ATPase)
+3648,DB00327,Hydromorphone,Drowsiness,Opioid receptors (mu)
+57469,DB00724,Imiquimod,Redness,Toll-like receptor 7
+3449,DB00674,Galantamine,Nausea,Acetylcholinesterase inhibition
+110635,DB00820,Tadalafil,Headache,Phosphodiesterase type 5 (PDE5)
+2725,DB01114,Chlorpheniramine,Drowsiness,Histamine H1 receptor
+5215,DB00359,Sulfadiazine,Rash,Dihydrofolate reductase inhibition
+4932,DB01182,Propafenone,Dizziness,Voltage-gated sodium channels
+2519,DB00201,Caffeine,Insomnia,Adenosine receptor antagonist
+5656,DB00285,Venlafaxine,Nausea,Serotonin and norepinephrine reuptake inhibition
+3750,DB00762,Irinotecan,Diarrhea,Topoisomerase I inhibition
+85,DB00583,Levocarnitine,Nausea,Carnitine transporter
+170361,DB01273,Varenicline,Nausea,Nicotinic acetylcholine receptors
+4748,DB00850,Perphenazine,Drowsiness,Dopamine D2 receptor
+3890,DB00654,Latanoprost,Eye redness,Prostaglandin F2-alpha receptor
+4173,DB00916,Metronidazole,Nausea,DNA synthesis inhibition
+3964,DB00408,Loxapine,Drowsiness,Dopamine D2 receptor
+2764,DB00537,Ciprofloxacin,Nausea,Topoisomerase inhibition
+2609,DB00833,Cefaclor,Diarrhea,Bacterial cell wall synthesis inhibition
+4449,DB01149,Nefazodone,Drowsiness,Serotonin and norepinephrine reuptake inhibition
+3640,DB00741,Hydrocortisone,Increased appetite,Glucocorticoid receptor
+41693,DB00708,Sufentanil,Drowsiness,Opioid receptors (mu)
+3085017,DB00658,Sevelamer,Nausea,Phosphate binding
+5878,DB00621,Oxandrolone,Acne,Androgen receptor
+3016,DB00829,Diazepam,Drowsiness,GABA-A receptor
+5090,DB00533,Rofecoxib,Nausea,Cyclooxygenase (COX-2)
+4603,DB00198,Oseltamivir,Nausea,Neuraminidase
+3780,DB00883,Isosorbide dinitrate,Headache,Guanylate cyclase activation
+3305,DB01077,Etidronic acid,Nausea,Bone resorption inhibition
+5523,DB00193,Tramadol,Dizziness,Opioid receptors (mu)
+4993,DB00205,Pyrimethamine,Nausea,Dihydrofolate reductase inhibition
+444,DB01156,Bupropion,Insomnia,Norepinephrine and dopamine reuptake inhibition
+4943,DB00818,Propofol,Drowsiness,GABA-A receptor
+3198,DB01127,Econazole,Skin irritation,Ergosterol biosynthesis inhibition
+2720,DB00880,Chlorothiazide,Frequent urination,Thiazide-sensitive sodium-chloride symporter
+5645,DB01586,Ursodeoxycholic acid,Nausea,Bile acid metabolism
+5245,DB00884,Risedronic acid,Nausea,Bone resorption inhibition
+36811,DB00841,Dobutamine,Increased heart rate,Beta-1 adrenergic receptor
+5184,DB00747,Scopolamine,Dry mouth,Muscarinic acetylcholine receptor
+3510,DB00889,Granisetron,Headache,Serotonin 5-HT3 receptor
+147912,DB01263,Posaconazole,Nausea,Ergosterol biosynthesis inhibition
+4616,DB00842,Oxazepam,Drowsiness,GABA-A receptor
+5281007,DB00851,Dacarbazine,Nausea,DNA alkylation
+214,DB00770,Alprostadil,Flushing,Prostacyclin receptor
+3372,DB00623,Fluphenazine,Drowsiness,Dopamine D2 receptor
+1986,DB00819,Acetazolamide,Nausea,Carbonic anhydrase inhibition
+125889,DB00230,Pregabalin,Dizziness,Voltage-gated calcium channels
+4419,DB00844,Nalbuphine,Nausea,Opioid receptors (mu)
+5472,DB00208,Ticlopidine,Bleeding,Platelet aggregation inhibition
+444033,DB01410,Ciclesonide,Throat irritation,Glucocorticoid receptor
+4635,DB00497,Oxycodone,Drowsiness,Opioid receptors (mu)
+5064,DB00811,Ribavirin,Nausea,Viral RNA polymerase inhibition
+4614,DB00991,Oxaprozin,Nausea,Cyclooxygenase (COX-1 and COX-2)
+4736,DB00652,Pentazocine,Dizziness,Opioid receptors (mu)
+2973,DB00746,Deferoxamine,Nausea,Iron chelation
+206,DB02379,Beta-D-Glucose,No major side effects,Glucose metabolism
+5454,DB01623,Thiothixene,Drowsiness,Dopamine D2 receptor
+3373,DB01205,Flumazenil,Dizziness,GABA-A receptor antagonist
+4819,DB01085,Pilocarpine,Sweating,Muscarinic acetylcholine receptor
+5253,DB00489,Sotalol,Dizziness,Beta-adrenergic receptors (Beta-1 and Beta-2)
+4599,DB01083,Orlistat,Diarrhea,Lipase inhibition
+3724,DB01249,Iodixanol,Nausea,Contrast agent
+2631,DB00493,Cefotaxime,Diarrhea,Bacterial cell wall synthesis inhibition
+3365,DB00196,Fluconazole,Nausea,Ergosterol biosynthesis inhibition
+1690,DB00445,Epirubicin,Nausea,Topoisomerase II inhibition
+5544,DB00620,Triamcinolone,Throat irritation,Glucocorticoid receptor
+5070,DB00740,Riluzole,Dizziness,Glutamate receptor inhibition
+4064,DB00371,Meprobamate,Drowsiness,GABA-A receptor modulation
+2554,DB00564,Carbamazepine,Dizziness,Voltage-gated sodium channels
+2187,DB01217,Anastrozole,Hot flashes,Aromatase enzyme inhibition
+2891,DB00115,Cyanocobalamin,No major side effects,Vitamin B12 metabolism
+4159,DB00959,Methylprednisolone,Increased appetite,Glucocorticoid receptor
+1349907,DB00763,Methimazole,Nausea,Thyroid peroxidase inhibition
+5596,DB00209,Trospium,Dry mouth,Muscarinic acetylcholine receptor
+54808,DB00873,Loteprednol,Eye irritation,Glucocorticoid receptor
+3672,DB01050,Ibuprofen,Nausea,Cyclooxygenase (COX-1 and COX-2)
+2153,DB00277,Theophylline,Nausea,Phosphodiesterase inhibition
+2171,DB01060,Amoxicillin,Diarrhea,Bacterial cell wall synthesis inhibition
+3826,DB00465,Ketorolac,Nausea,Cyclooxygenase (COX-1 and COX-2)
+3203,DB00625,Efavirenz,Dizziness,Reverse transcriptase inhibition
+3914,DB01210,Levobunolol,Dizziness,Beta-adrenergic receptors (Beta-1 and Beta-2)
+1546,DB00242,Cladribine,Nausea,DNA synthesis inhibition
+5466,DB00906,Tiagabine,Drowsiness,GABA reuptake inhibition
+19090,DB00351,Megestrol acetate,Increased appetite,Progesterone receptor
+3394,DB00712,Flurbiprofen,Nausea,Cyclooxygenase (COX-1 and COX-2)
+4828,DB00960,Pindolol,Dizziness,Beta-adrenergic receptors (Beta-1 and Beta-2)
+3261,DB01215,Estazolam,Drowsiness,GABA-A receptor
+3793,DB01167,Itraconazole,Nausea,Ergosterol biosynthesis inhibition
+4510,DB00727,Nitroglycerin,Headache,Guanylate cyclase activation
+3382,DB01047,Fluocinonide,Skin irritation,Glucocorticoid receptor
+5735,DB00402,Eszopiclone,Drowsiness,GABA-A receptor
+2156,DB01118,Amiodarone,Dizziness,Voltage-gated potassium channels
+4044,DB00784,Mefenamic acid,Nausea,Cyclooxygenase (COX-1 and COX-2)
+4192,DB00683,Midazolam,Drowsiness,GABA-A receptor
+4834,DB00319,Piperacillin,Diarrhea,Bacterial cell wall synthesis inhibition
+4497,DB00393,Nimodipine,Dizziness,Calcium channels (L-type)
+5732,DB00425,Zolpidem,Drowsiness,GABA-A receptor
+2375,DB01128,Bicalutamide,Nausea,Androgen receptor antagonist
+59708,DB01202,Levetiracetam,Drowsiness,Voltage-gated calcium channels
+3154,DB00869,Dorzolamide,Eye irritation,Carbonic anhydrase inhibition
+4745,DB01186,Pergolide,Nausea,Dopamine D2 receptor
+2232,DB00278,Argatroban,Bleeding,Thrombin inhibition
+4236,DB00745,Modafinil,Insomnia,Dopamine transporter inhibition
+150610,DB00303,Ertapenem,Diarrhea,Bacterial cell wall synthesis inhibition
+2274,DB00355,Aztreonam,Diarrhea,Bacterial cell wall synthesis inhibition
+27661,DB01020,Isosorbide mononitrate,Headache,Guanylate cyclase activation
+104741,DB00947,Fulvestrant,Hot flashes,Estrogen receptor antagonist
+4991,DB00545,Pyridostigmine,Nausea,Acetylcholinesterase inhibition
+3690,DB01181,Ifosfamide,Nausea,DNA alkylation
+2726,DB00477,Chlorpromazine,Drowsiness,Dopamine D2 receptor
+3767,DB00951,Isoniazid,Nausea,Mycolic acid synthesis inhibition
+772,DB00407,Ardeparin,Bleeding,Factor Xa inhibition
+148211,DB00377,Palonosetron,Headache,Serotonin 5-HT3 receptor
+4666,DB01229,Paclitaxel,Nausea,Microtubules
+2474,DB00297,Bupivacaine,Dizziness,Voltage-gated sodium channels
+5381226,DB01045,Rifampicin,Nausea,Bacterial RNA polymerase inhibition
+5381,DB00799,Tazarotene,Skin irritation,Retinoic acid receptors
+2462,DB01222,Budesonide,Throat irritation,Glucocorticoid receptor
+5362070,DB01014,Balsalazide,Nausea,Anti-inflammatory effect
+41774,DB00284,Acarbose,Flatulence,Alpha-glucosidase inhibition
+3255,DB00199,Erythromycin,Nausea,Bacterial ribosome inhibition
+5291,DB00619,Imatinib,Nausea,Tyrosine kinase inhibition
+1071,DB00162,Vitamin A,No major side effects,Retinoic acid receptors
+3676,DB00281,Lidocaine,Dizziness,Voltage-gated sodium channels
+3279,DB00330,Ethambutol,Nausea,Arabinogalactan synthesis inhibition
+54688,DB01211,Clarithromycin,Nausea,Bacterial ribosome inhibition
+5731,DB00315,Zolmitriptan,Nausea,Serotonin 5-HT1B/1D receptors
+3384,DB00324,Fluorometholone,Eye irritation,Glucocorticoid receptor
+4451,DB00220,Nelfinavir,Nausea,HIV protease inhibition
+4499,DB00401,Nisoldipine,Dizziness,Calcium channel blocker
+64147,DB01610,Valganciclovir,Nausea,Viral DNA polymerase inhibition
+3658,DB00557,Hydroxyzine,Drowsiness,Histamine H1 receptor antagonist
+10631,DB00603,Medroxyprogesterone acetate,Nausea,Progesterone receptor agonist
+60184,DB00790,Perindopril,Dizziness,Angiotensin-converting enzyme (ACE) inhibition
+4178,DB00379,Mexiletine,Dizziness,Sodium channel inhibition (antiarrhythmic)
+3393,DB00690,Flurazepam,Drowsiness,GABA-A receptor activation
+2949,DB01406,Danazol,Nausea,Androgen receptor agonist
+41781,DB00214,Torasemide,Dizziness,Loop diuretic (kidney sodium transport inhibition)
+216326,DB00480,Lenalidomide,Nausea,Immunomodulator (TNF-alpha inhibition)
+3657,DB01005,Hydroxyurea,Nausea,Ribonucleotide reductase inhibition
+2269,DB00207,Azithromycin,Nausea,50S ribosomal subunit inhibition (bacterial protein synthesis)
+5734,DB00909,Zonisamide,Dizziness,Carbonic anhydrase inhibition
+13342,DB00570,Vinblastine,Nausea,Microtubule inhibition
+3310,DB00773,Etoposide,Nausea,Topoisomerase II inhibition
+6398970,DB00535,Cefdinir,Nausea,Bacterial cell wall synthesis inhibition
+3043,DB00900,Didanosine,Nausea,Reverse transcriptase inhibition
+5073,DB00734,Risperidone,Weight gain,Dopamine D2 and serotonin 5-HT2A receptor antagonist
+4659569,DB00323,Tolcapone,Nausea,COMT enzyme inhibition
+4740,DB00806,Pentoxifylline,Nausea,Phosphodiesterase inhibition (vasodilation)
+2487,DB00611,Butorphanol,Dizziness,Partial opioid receptor agonist
+4601,DB01173,Orphenadrine,Drowsiness,Anticholinergic (muscle relaxant)
+3385,DB00544,Fluorouracil,Nausea,Thymidylate synthase inhibition (DNA synthesis inhibition)
+4409,DB00461,Nabumetone,Nausea,Cyclooxygenase inhibition
+12536,DB01260,Desonide,Skin irritation,Glucocorticoid receptor agonist
+861,DB00279,Liothyronine,Increased heart rate,Thyroid hormone receptor activation
+4463,DB00238,Nevirapine,Rash,HIV reverse transcriptase inhibition
+3121,DB00313,Valproic acid,Nausea,Inhibition of GABA transaminase
+5978,DB00541,Vincristine,Nausea,Microtubule inhibition
+2719,DB00608,Chloroquine,Nausea,Heme polymerase inhibition (antimalarial)
+2471,DB00887,Bumetanide,Dizziness,Loop diuretic (kidney sodium transport inhibition)
+3403,DB01095,Fluvastatin,Nausea,HMG-CoA reductase inhibition (cholesterol lowering)
+2658,DB01112,Cefuroxime,Nausea,Bacterial cell wall synthesis inhibition
+2585,DB01136,Carvedilol,Dizziness,Beta-adrenergic receptor antagonist
+72938,DB01155,Gemifloxacin,Nausea,Topoisomerase IV and DNA gyrase inhibition
+3003,DB00443,Betamethasone,Nausea,Glucocorticoid receptor agonist
+4011,DB00934,Maprotiline,Drowsiness,Norepinephrine reuptake inhibition
+2732,DB00310,Chlorthalidone,Dizziness,Thiazide diuretic (kidney sodium transport inhibition)
+657298,DB00550,Propylthiouracil,Nausea,Thyroid peroxidase inhibition
+2141,DB01143,Amifostine,Nausea,Cytoprotective agent (free radical scavenger)
+2650,DB00438,Ceftazidime,Nausea,Bacterial cell wall synthesis inhibition
+5379,DB01044,Gatifloxacin,Nausea,Topoisomerase IV and DNA gyrase inhibition
+4506,DB01595,Nitrazepam,Drowsiness,GABA-A receptor activation
+3410,DB00983,Formoterol,Nausea,Beta-2 adrenergic receptor agonist
+2646,DB01150,Cefprozil,Nausea,Bacterial cell wall synthesis inhibition
+3117,DB00822,Disulfiram,Nausea,Aldehyde dehydrogenase inhibition
+3345,DB00813,Fentanyl,Drowsiness,Opioid receptor agonist
+5717,DB00549,Zafirlukast,Nausea,Leukotriene receptor antagonist
+2435,DB00484,Brimonidine,Dry mouth,Alpha-2 adrenergic receptor agonist
+5572,DB00376,Trihexyphenidyl,Dry mouth,Anticholinergic (Parkinson’s disease)
+2170,DB00543,Amoxapine,Drowsiness,Norepinephrine and serotonin reuptake inhibitor
+145068,DB00435,Nitric Oxide,Headache,Vasodilation via cGMP activation
+2662,DB00482,Celecoxib,Nausea,Cyclooxygenase-2 (COX-2) inhibition
+2733,DB00356,Chlorzoxazone,Drowsiness,Central nervous system muscle relaxant
+5035,DB00481,Raloxifene,Nausea,Selective estrogen receptor modulator (SERM)
+5487301,DB01079,Tegaserod,Nausea,Serotonin 5-HT4 receptor agonist
+3675,DB00780,Phenelzine,Dizziness,Monoamine oxidase (MAO) inhibition
+2666,DB00567,Cephalexin,Nausea,Bacterial cell wall synthesis inhibition
+4095,DB00333,Methadone,Drowsiness,Opioid receptor agonist
+3308,DB00749,Etodolac,Nausea,Cyclooxygenase inhibition
+3042,DB00804,Dicyclomine,Dry mouth,Anticholinergic (gut muscle relaxation)
+4634,DB01062,Oxybutynin,Dry mouth,Anticholinergic (bladder muscle relaxation)
+5358,DB00669,Sumatriptan,Nausea,Serotonin 5-HT1 receptor agonist
+3516,DB00874,Guaifenesin,Nausea,Expectorant (mucus clearance)
+77992,DB00998,Frovatriptan,Nausea,Serotonin 5-HT1 receptor agonist
+2801,DB01242,Clomipramine,Drowsiness,Serotonin-norepinephrine reuptake inhibition
+3821,DB01221,Ketamine,Nausea,NMDA receptor antagonist (dissociative anesthetic)
+3463,DB01241,Gemfibrozil,Nausea,PPAR-alpha receptor activation (lipid-lowering)
+5005,DB00881,Quinapril,Dizziness,Angiotensin-converting enzyme (ACE) inhibition
+3958,DB00186,Lorazepam,Drowsiness,GABA-A receptor activation
+3367,DB04441,2-Fluoroadenosine,Nausea,Inhibition of nucleic acid synthesis
+942,DB00184,Nicotine,Nausea,Nicotinic acetylcholine receptor agonist
+2477,DB00490,Buspirone,Dizziness,Serotonin 5-HT1A receptor agonist
+5376,DB00675,Tamoxifen,Nausea,Selective estrogen receptor modulator (SERM)
+3152,DB00843,Donepezil,Nausea,Acetylcholinesterase inhibition (Alzheimer’s disease)
+4170,DB00524,Metolazone,Dizziness,Thiazide-like diuretic (kidney sodium transport inhibition)
+2727,DB00672,Chlorpropamide,Nausea,Sulfonylurea receptor activation (insulin secretion)
+5746,DB00305,Mitomycin,Nausea,Alkylating DNA damage (chemotherapy)
+3746,DB00332,Ipratropium,Dry mouth,Anticholinergic (bronchodilation)
+5362420,DB00460,Verteporfin,Nausea,Photodynamic therapy (macular degeneration)
+5077,DB00989,Rivastigmine,Nausea,Acetylcholinesterase inhibition (Alzheimer’s disease)
+4585,DB00334,Olanzapine,Weight gain,Dopamine D2 and serotonin 5-HT2A receptor antagonist
+4547,DB00912,Repaglinide,Nausea,Sulfonylurea receptor activation (insulin secretion)
+4927,DB01069,Promethazine,Drowsiness,Histamine H1 receptor antagonist
+4889,DB00175,Pravastatin,Nausea,HMG-CoA reductase inhibition (cholesterol lowering)
+5593,DB00809,Tropicamide,Dry mouth,Muscarinic receptor antagonist (eye dilation)
+54786,DB00374,Treprostinil,Nausea,Prostacyclin receptor activation (vasodilation)
+150311,DB00973,Ezetimibe,Nausea,Cholesterol absorption inhibition (NPC1L1 transporter)
+2576,DB00395,Carisoprodol,Drowsiness,Central nervous system muscle relaxant
+4189,DB01110,Miconazole,Skin irritation,Ergosterol synthesis inhibition (antifungal)
+4659568,DB00494,Entacapone,Nausea,Catechol-O-methyltransferase (COMT) inhibition (Parkinson’s disease)
+5076,DB00503,Ritonavir,Nausea,HIV protease inhibition
+2712,DB00475,Chlordiazepoxide,Drowsiness,GABA-A receptor activation (anxiolytic)
+60787,DB01232,Saquinavir,Nausea,HIV protease inhibition
+3405,DB00158,Folic acid,Nausea,DNA synthesis cofactor
+3559,DB00502,Haloperidol,Drowsiness,Dopamine D2 receptor antagonist (antipsychotic)
+4829,DB01132,Pioglitazone,Weight gain,PPAR-gamma receptor activation (diabetes management)
+5152,DB00938,Salmeterol,Nausea,Beta-2 adrenergic receptor agonist
+3883,DB00448,Lansoprazole,Nausea,Proton pump inhibition (acid suppression)
+4473,DB00622,Nicardipine,Nausea,Calcium channel blocker (hypertension)
+3899,DB01097,Leflunomide,Nausea,Dihydroorotate dehydrogenase inhibition (rheumatoid arthritis)
+72054,DB00496,Darifenacin,Dry mouth,Muscarinic receptor antagonist (bladder control)
+3397,DB00499,Flutamide,Nausea,Androgen receptor antagonist (prostate cancer)
+2182,DB00261,Anagrelide,Nausea,Phosphodiesterase-3 inhibition (platelet reduction)
+2802,DB01068,Clonazepam,Drowsiness,GABA-A receptor activation (anxiolytic)
+2541,DB00796,Candesartan cilexetil,Dizziness,Angiotensin II receptor antagonist (hypertension)
+2478,DB01008,Busulfan,Nausea,DNA alkylation (chemotherapy)
+4054,DB01043,Memantine,Dizziness,NMDA receptor antagonist (Alzheimer’s disease)
+5726,DB00495,Zidovudine,Nausea,Reverse transcriptase inhibition (HIV)
+5195,DB01037,Selegiline,Nausea,Monoamine oxidase B (MAO-B) inhibition (Parkinson’s disease)
+5353980,DB00795,Sulfasalazine,Nausea,Inflammatory cytokine inhibition 
+2524,DB00136,Calcitriol,Nausea,Vitamin D receptor activation (bone health)
+65999,DB00966,Telmisartan,Dizziness,Angiotensin II receptor antagonist (hypertension)
+68740,DB00399,Zoledronic acid,Nausea,Inhibition of osteoclast-mediated bone resorption
+4091,DB00331,Metformin,Nausea,AMPK activation (glucose regulation)
+3494,DB00986,Glycopyrronium,Dry mouth,Muscarinic receptor antagonist (COPD)
+4107,DB00423,Methocarbamol,Drowsiness,Central nervous system muscle relaxant
+444013,DB00538,Gadoversetamide,Nausea,MRI contrast agent
+581,DB06151,Acetylcysteine,Nausea,Glutathione precursor 
+3348,DB00950,Fexofenadine,Nausea,Histamine H1 receptor antagonist (antihistamine)
+5352,DB00605,Sulindac,Nausea,Cyclooxygenase  inhibition (NSAID)
+4771,DB00191,Phentermine,Nausea,Central nervous system stimulant (weight loss)
+5203,DB01104,Sertraline,Nausea,Selective serotonin reuptake inhibitor (SSRI)
+2806,DB00758,Clopidogrel,Nausea,Platelet aggregation inhibition (antiplatelet)
+3062,DB00390,Digoxin,Nausea,Na+/K+ ATPase inhibition (heart failure)
+5650,DB00177,Valsartan,Dizziness,Angiotensin II receptor antagonist (hypertension)
+3066,DB00320,Dihydroergotamine,Nausea,Serotonin receptor modulation (migraine treatment)
+3333,DB01023,Felodipine,Nausea,Calcium channel blocker (hypertension)
+3339,DB01039,Fenofibrate,Nausea,PPAR-alpha receptor activation (lipid-lowering)
+3937,DB00722,Lisinopril,Dizziness,Angiotensin-converting enzyme (ACE) inhibition (hypertension)
+38904,DB00958,Carboplatin,Nausea,Platinum-based DNA crosslinking (chemotherapy)
+2130,DB00915,Amantadine,Nausea,Dopamine release enhancement (Parkinson’s disease)
+3404,DB00176,Fluvoxamine,Nausea,Selective serotonin reuptake inhibitor (SSRI)
+34312,DB00776,Oxcarbazepine,Dizziness,Voltage-gated sodium channel inhibition (antiepileptic)
+3715,DB00328,Indomethacin,Nausea,Cyclooxygenase  inhibition (NSAID)
+57537,DB05271,Rotigotine,Nausea,Dopamine receptor agonist (Parkinson’s disease)
+2675,DB00671,Cefixime,Nausea,Bacterial cell wall synthesis inhibition (antibiotic)
+5556,DB00897,Triazolam,Drowsiness,GABA-A receptor activation (sedative)
+838,DB00668,Epinephrine,Nausea,Adrenergic receptor agonist (emergency treatment)
+4171,DB00264,Metoprolol,Dizziness,Beta-1 adrenergic receptor antagonist (hypertension)
+4425,DB01183,Naloxone,Nausea,Opioid receptor antagonist (opioid overdose)
+3763,DB00753,Isoflurane,Nausea,GABA-A receptor modulation (anesthetic)
+2083,DB01001,Salbutamol,Nausea,Beta-2 adrenergic receptor agonist (bronchodilation)
+4920,DB00396,Progesterone,Nausea,Progesterone receptor activation (hormonal therapy)
+3158,DB01142,Doxepin,Drowsiness,Histamine H1 receptor antagonist (antidepressant)
+2118,DB00404,Alprazolam,Drowsiness,GABA-A receptor activation (anxiolytic)
+4536,DB00717,Norethisterone,Nausea,Progesterone receptor activation (hormonal therapy)
+148192,DB01072,Atazanavir,Nausea,HIV protease inhibition
+2708,DB00291,Chlorambucil,Nausea,DNA alkylation (chemotherapy)
+51634,DB00419,Miglustat,Nausea,Glucosylceramide synthase inhibition (Gaucher’s disease)
+298,DB00446,Chloramphenicol,Nausea,Bacterial ribosome inhibition (antibiotic)
+4812,DB01022,Phylloquinone,Nausea,Vitamin K-dependent clotting factor activation
+54454,DB00641,Simvastatin,Nausea,HMG-CoA reductase inhibition (cholesterol lowering)
+143,DB00650,Leucovorin,Nausea,Folate metabolism support (chemotherapy adjunct)
+2771,DB00215,Citalopram,Nausea,Selective serotonin reuptake inhibitor (SSRI)
+5530,DB00752,Tranylcypromine,Nausea,Monoamine oxidase inhibition (antidepressant)
+4893,DB00457,Prazosin,Dizziness,Alpha-1 adrenergic receptor antagonist (hypertension)
+5210,DB01105,Sibutramine,Nausea,Serotonin-norepinephrine reuptake inhibition (weight loss)
+77993,DB00216,Eletriptan,Nausea,Serotonin receptor agonist (migraine treatment)
+36339,DB00292,Etomidate,Nausea,GABA-A receptor modulation (anesthetic)
+2267,DB00972,Azelastine,Drowsiness,Histamine H1 receptor antagonist (antihistamine)
+3652,DB01611,Hydroxychloroquine,Nausea,Immune modulation (malaria)
+1065,DB00468,Quinine,Nausea,Malaria parasite DNA synthesis inhibition
+450,DB00783,Estradiol,Nausea,Estrogen receptor activation (hormonal therapy)
+3222,DB00584,Enalapril,Dizziness,Angiotensin-converting enzyme (ACE) inhibition (hypertension)
+4691,DB00715,Paroxetine,Nausea,Selective serotonin reuptake inhibitor (SSRI)
+3440,DB00695,Furosemide,Nausea,Loop diuretic (fluid removal)
+1983,DB00316,Acetaminophen,Nausea,Cyclooxygenase (COX) inhibition (pain relief)
+60953,DB01101,Capecitabine,Nausea,Thymidylate synthase inhibition (chemotherapy)
+3902,DB01006,Letrozole,Nausea,Aromatase inhibition (breast cancer)
+71273,DB00296,Ropivacaine,Nausea,Voltage-gated sodium channel inhibition (anesthetic)
+2786,DB01190,Clindamycin,Nausea,Bacterial ribosome inhibition (antibiotic)
+122316,DB01367,Rasagiline,Nausea,Monoamine oxidase B (MAO-B) inhibition (Parkinson’s disease)
+4205,DB00370,Mirtazapine,Nausea,Alpha-2 adrenergic receptor antagonist (antidepressant)
+47320,DB00565,Cisatracurium,Nausea,Nicotinic acetylcholine receptor inhibition (muscle relaxant)
+42113,DB01189,Desflurane,Nausea,GABA-A receptor modulation (anesthetic)
+3730,DB01362,Iohexol,Nausea,X-ray contrast agent
+4999,DB01589,Quazepam,Drowsiness,GABA-A receptor activation (sedative)
+3962,DB00227,Lovastatin,Nausea,HMG-CoA reductase inhibition (cholesterol lowering)
+60754,DB00225,Gadodiamide,Nausea,MRI contrast agent
+153941,DB00442,Entecavir,Nausea,Reverse transcriptase inhibition (hepatitis B)
+40976,DB00294,Etonogestrel,Nausea,Progesterone receptor activation (contraceptive)
+2803,DB00575,Clonidine,Dizziness,Alpha-2 adrenergic receptor agonist (hypertension)
+5493381,DB01609,Deferasirox,Nausea,Iron chelation (iron overload treatment)
+4909,DB00794,Primidone,Drowsiness,Voltage-gated sodium channel inhibition (antiepileptic)
+4034,DB00737,Meclizine,Drowsiness,Histamine H1 receptor antagonist (motion sickness)
+2812,DB00257,Clotrimazole,Skin irritation,Fungal cell membrane inhibition (antifungal)
+2951,DB01219,Dantrolene,Drowsiness,Calcium release inhibition (muscle relaxant)
+5040,DB00877,Sirolimus,Nausea,mTOR inhibition (immunosuppressant)
+152945,DB01126,Dutasteride,Sexual dysfunction,5-alpha reductase inhibition (benign prostatic hyperplasia)
+123631,DB00317,Gefitinib,Nausea,Epidermal growth factor receptor (EGFR) inhibition (cancer treatment)
+564,DB00513,Aminocaproic acid,Nausea,Plasmin inhibition (bleeding control)
+2637,DB01331,Cefoxitin,Nausea,Bacterial cell wall synthesis inhibition (antibiotic)
+3961,DB00678,Losartan,Dizziness,Angiotensin II receptor antagonist (hypertension)
+4595,DB00904,Ondansetron,Headache,Serotonin receptor antagonist (antiemetic)
+4727,DB00859,Penicillamine,Nausea,Copper chelation (rheumatoid arthritis)
+3478,DB01067,Glipizide,Nausea,Pancreatic beta-cell stimulation (diabetes)
+5426,DB01041,Thalidomide,Nerve damage,Tumor necrosis factor-alpha (TNF-α) inhibition (cancer)
+3040,DB00485,Dicloxacillin,Nausea,Bacterial cell wall synthesis inhibition (antibiotic)
+3749,DB01029,Irbesartan,Dizziness,Angiotensin II receptor antagonist (hypertension)
+60795,DB01238,Aripiprazole,Nausea,Dopamine and serotonin receptor modulation (antipsychotic)
+1206,DB01577,Metamfetamine,Nausea,Dopamine and norepinephrine release (stimulant)
+4542,DB00367,Levonorgestrel,Nausea,Progesterone receptor activation (contraceptive)
+1046,DB00339,Pyrazinamide,Nausea,Bacterial fatty acid synthesis inhibition (tuberculosis treatment)
+5533,DB00656,Trazodone,Drowsiness,Serotonin reuptake inhibition (antidepressant)
+74989,DB01117,Atovaquone,Nausea,Mitochondrial electron transport inhibition (antimalarial)
+2749,DB01188,Ciclopirox,Skin irritation,Fungal cell membrane inhibition (antifungal)
+5267,DB00421,Spironolactone,Nausea,Aldosterone receptor antagonist (diuretic)
+213039,DB01264,Darunavir,Nausea,HIV protease inhibition (antiretroviral)
+160051,DB00930,Colesevelam,Nausea,Bile acid sequestration (cholesterol-lowering)
+3291,DB00593,Ethosuximide,Nausea,T-type calcium channel inhibition (antiepileptic)
+853,DB00451,Levothyroxine,Nausea,Thyroid hormone replacement (hypothyroidism)
+5496,DB00684,Tobramycin,Nausea,Bacterial protein synthesis inhibition (antibiotic)
+2978,DB00470,Dronabinol,Nausea,Cannabinoid receptor agonist (appetite stimulant)
+5038,DB00178,Ramipril,Dizziness,Angiotensin-converting enzyme (ACE) inhibition (hypertension)
+5402,DB00857,Terbinafine,Skin irritation,Fungal squalene epoxidase inhibition (antifungal)
+3062316,DB01254,Dasatinib,Nausea,Tyrosine kinase inhibition (cancer treatment)
+3488,DB01016,Glyburide,Nausea,Pancreatic beta-cell stimulation (diabetes)
+123606,DB00918,Almotriptan,Nausea,Serotonin receptor agonist (migraine treatment)
+5039,DB00863,Ranitidine,Nausea,Histamine H2 receptor antagonist (acid reflux)
+596,DB00987,Cytarabine,Nausea,DNA synthesis inhibition (chemotherapy)
+93860,DB00188,Bortezomib,Nausea,Proteasome inhibition (cancer treatment)
+5538,DB00523,Alitretinoin,Nausea,Retinoid receptor activation (skin disorders)
+158,DB00917,Dinoprostone,Nausea,Prostaglandin receptor activation (labor induction)
+3350,DB01216,Finasteride,Sexual dysfunction,5-alpha reductase inhibition (benign prostatic hyperplasia)
+2756,DB00501,Cimetidine,Nausea,Histamine H2 receptor antagonist (acid reflux)
+2713,DB00878,Chlorhexidine,Skin irritation,Bacterial membrane disruption (antiseptic)
+12620,DB00632,Docosanol,Skin irritation,Viral envelope fusion inhibition (antiviral)
+4917,DB00433,Prochlorperazine,Drowsiness,Dopamine receptor antagonist (antiemetic)
+68844,DB01194,Brinzolamide,Eye irritation,Carbonic anhydrase inhibition (glaucoma treatment)
+5514,DB00273,Topiramate,Nausea,Voltage-gated sodium channel inhibition (antiepileptic)
+119,DB02530,gamma-Aminobutyric acid,Drowsiness,GABA receptor activation (neurotransmitter)
