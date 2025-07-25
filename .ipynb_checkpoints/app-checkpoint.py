@@ -6,9 +6,7 @@ from keras.models import load_model
 from streamlit_option_menu import option_menu
 
 # Define base path
-import os
-BASE_PATH = os.path.join(os.path.dirname(__file__), "project")
-
+BASE_PATH = r"C:\Users\adith\OneDrive\Desktop\AU\project\project"
 
 # Function to set background image
 def set_background(image_path):
